@@ -73,7 +73,7 @@ I am a dedicated **Frontend Developer** with a passion for turning complex probl
     </tr>
   </table>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[AbdullahAhmedKhan]&theme=tokyonight&hide_border=true" width="100%" />
 </div>
 
 ---
