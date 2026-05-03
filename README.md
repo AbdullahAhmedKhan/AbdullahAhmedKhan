@@ -1,6 +1,6 @@
 <div align="center">
   <!-- <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=200&section=header&text=Ashikur%20Rahman&fontSize=70&animation=fadeIn" width="100%" /> -->
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=200&section=header&text=Ashikur%20Rahman&fontSize=70&animation=fadeIn" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=200&section=header&text=Abdullah%Ahammed&fontSize=70&animation=fadeIn" width="100%" alt="Header Banner" />
 
   <h3>🚀 Frontend Developer | Building Scalable & Interactive Web Experiences</h3>
 
@@ -72,10 +72,10 @@ I am a dedicated **Frontend Developer** with a passion for turning complex probl
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=tokyonight&langs_count=6" />
       </td> -->
       <td align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_ACTUAL_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdullahAhmedKhan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
       </td>
       <td align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ACTUAL_USERNAME&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAhmedKhan&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
       </td>
     </tr>
   </table>
