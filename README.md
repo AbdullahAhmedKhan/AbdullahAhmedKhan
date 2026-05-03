@@ -20,7 +20,7 @@ I am a dedicated **Frontend Developer** with a passion for turning complex probl
 - 🔭 Currently working on **Advanced Next.js Applications**
 - 🌱 Learning **System Design & Backend Scalability**
 - 💬 Ask me about **React, UI/UX, and Frontend Optimization**
-- 📫 Reach me at: **[Your Email]**
+- 📫 Reach me at: **[abdullahahmedkhan100@gmail.com]**
 
 ---
 
@@ -107,7 +107,7 @@ I am a dedicated **Frontend Developer** with a passion for turning complex probl
 
 ### 🤝 Let's Connect
 <p align="left">
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abdullahahmedkhan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://abdullahahmedkhan.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="mailto:abdullahahmedkhan100@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
