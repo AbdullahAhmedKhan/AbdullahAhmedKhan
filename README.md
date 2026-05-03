@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Next Level IT Solution
+# 👋 Hi, I'm Abdullah Ahammed Khan
 
 🚀 **Frontend Developer | Software Engineer**
 💼 Working at SK Soft Solutions Inc.
