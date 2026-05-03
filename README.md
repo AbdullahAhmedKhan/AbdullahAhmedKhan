@@ -1,77 +1,90 @@
-# 👋 Hi, I'm Abdullah Ahammed Khan
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=200&section=header&text=Ashikur%20Rahman&fontSize=70&animation=fadeIn" width="100%" />
 
-🚀 **Frontend Developer | Software Engineer**
-💼 Working at SK Soft Solutions Inc.
-🌍 Passionate about building modern, responsive, and user-friendly web applications
+  <h3>🚀 Frontend Developer | Building Scalable & Interactive Web Experiences</h3>
 
----
-
-## 🧑‍💻 About Me
-
-* 💻 I specialize in **Frontend Development**
-* ⚛️ Love working with **React.js**
-* 🎨 Focused on **clean UI/UX & performance**
-* 🧠 Always learning new technologies
-* 🔧 Also have experience with backend (PHP & MySQL)
+  <p align="center">
+    <img src="https://img.shields.io/badge/Experience-3%2B%20Years-blue?style=flat-square">
+    <img src="https://img.shields.io/badge/Location-Bangladesh-green?style=flat-square">
+    <img src="https://img.shields.io/badge/Status-Open%20for%20Collaboration-orange?style=flat-square">
+  </p>
+</div>
 
 ---
 
-## 🚀 Tech Stack
+### 💫 About Me
+I am a dedicated **Frontend Developer** with a passion for turning complex problems into elegant, high-performance user interfaces. With over 3 years of professional experience, I specialize in the React ecosystem and modern styling frameworks.
 
-### 🌐 Frontend
-
-* HTML5
-* CSS3 / Tailwind CSS / Bootstrap
-* JavaScript (ES6+)
-* React.js
-
-### ⚙️ Backend
-
-* PHP
-* MySQL
-
-### 🛠️ Tools
-
-* Git & GitHub
-* VS Code
-* Chrome DevTools
+- 🔭 Currently working on **Advanced Next.js Applications**
+- 🌱 Learning **System Design & Backend Scalability**
+- 💬 Ask me about **React, UI/UX, and Frontend Optimization**
+- 📫 Reach me at: **[Your Email]**
 
 ---
 
-## 📊 GitHub Stats
+### 🛠️ Tech Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username\&show_icons=true\&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username\&layout=compact\&theme=radical)
+<table align="center">
+  <tr>
+    <td align="center" width="100"><strong>Core</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100"><strong>Frameworks</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100"><strong>UI & Styling</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+      <img src="https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100"><strong>Backend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🔥 GitHub Streak
+### 📊 GitHub Statistics
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=your-username\&theme=radical)
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=tokyonight&langs_count=6" />
+      </td>
+    </tr>
+  </table>
 
----
-
-## 🌱 Currently Learning
-
-* Advanced React Patterns
-* Performance Optimization
-* System Design Basics
-
----
-
-## 📫 Contact Me
-
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-* 💼 LinkedIn: https://linkedin.com/in/your-profile
-* 🌐 Portfolio: https://your-portfolio.com
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=tokyonight&hide_border=true" width="100%" />
+</div>
 
 ---
 
-## ⚡ Fun Fact
+### 🤝 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/[YOUR_LINKEDIN]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+<a href="mailto:yourname@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-I love turning ideas into real-world web applications 🚀
-
----
-
-⭐ **Thanks for visiting my profile!**
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
