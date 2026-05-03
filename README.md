@@ -1,6 +1,6 @@
 <div align="center">
   <!-- <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=200&section=header&text=Ashikur%20Rahman&fontSize=70&animation=fadeIn" width="100%" /> -->
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=200&section=header&text=Abdullah%Ahammed&fontSize=70&animation=fadeIn" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=200&section=header&text=Abdullah%20Ahammed&fontSize=70&animation=fadeIn" width="100%" alt="Header Banner" />
 
   <h3>🚀 Frontend Developer | Building Scalable & Interactive Web Experiences</h3>
 
