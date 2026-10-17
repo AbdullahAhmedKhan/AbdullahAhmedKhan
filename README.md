@@ -1,103 +1,49 @@
 <div align="center">
-  <!-- <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=200&section=header&text=Ashikur%20Rahman&fontSize=70&animation=fadeIn" width="100%" /> -->
-   <!-- <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=200&section=header&text=Abdullah%20Ahmed%20Khan&fontSize=70&animation=fadeIn" width="100%" alt="Header Banner" /> -->
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Abdullah;Frontend+Developer;React+%26+Next.js+Expert;Problem+Solver" alt="Typing SVG" />
-  
-  <h3>🚀 Frontend Developer | Building Scalable & Interactive Web Experiences</h3>
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/Experience-3%2B%20Years-blue?style=flat-square">
-    <img src="https://img.shields.io/badge/Location-Bangladesh-green?style=flat-square">
-    <img src="https://img.shields.io/badge/Status-Open%20for%20Collaboration-orange?style=flat-square">
-  </p>
-</div>
-
----
-
-### 💫 About Me
-I am a dedicated **Frontend Developer** with a passion for turning complex problems into elegant, high-performance user interfaces. With over 3 years of professional experience, I specialize in the React ecosystem and modern styling frameworks.
-
-- 🔭 Currently working on **Advanced Next.js Applications**
-- 🌱 Learning **System Design & Backend Scalability**
-- 💬 Ask me about **React, UI/UX, and Frontend Optimization**
-- 📫 Reach me at: **[abdullahahmedkhan100@gmail.com]**
-
----
-
-### 🛠️ Tech Stack
-
-<table align="center">
-  <tr>
-    <td align="center" width="100"><strong>Core</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100"><strong>Frameworks</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100"><strong>UI & Styling</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-      <img src="https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100"><strong>Backend</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[AbdullahAhmedKhan]&theme=tokyonight&hide_border=true" width="100%" />
-</div>
-
----
-
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
-
-### 🏆 Achievements & Skills
-
-<div align="center">
-  <!-- GITHUB TROPHIES (Different Provider) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdullahAhmedKhan&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophies" />
-</div>
+<img src="assets/header.svg" alt="Abdullah Ahmed Khan, frontend developer" width="100%" />
 
 <br />
 
----
+<a href="https://abdullahahmedkhan.netlify.app"><img src="assets/btn-portfolio.svg" alt="Portfolio" height="44" /></a>
+<a href="https://www.linkedin.com/in/abdullahahmedkhan"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="44" /></a>
+<a href="mailto:abdullahahmedkhan100@gmail.com"><img src="assets/btn-email.svg" alt="Email" height="44" /></a>
 
-### 📈 Activity Graph
-
-<div align="center">
-  <!-- ACTIVITY GRAPH (Alternative to Stats Card) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdullahAhmedKhan&theme=tokyo-night&bg_color=0d1117&hide_border=true" width="100%" />
 </div>
 
----
+## About
 
-### 🤝 Let's Connect
-<p align="left">
-  <a href="https://www.linkedin.com/in/abdullahahmedkhan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://abdullahahmedkhan.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="mailto:abdullahahmedkhan100@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="assets/about.svg" alt="About Abdullah: frontend developer in Bangladesh with 3+ years of experience, building advanced Next.js applications and learning system design." width="100%" />
+
+## Stack
+
+<img src="assets/stack.svg" alt="JavaScript, TypeScript, HTML, CSS, React, Next.js, Tailwind CSS, shadcn/ui, Bootstrap, MySQL" width="100%" />
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,bootstrap,mysql&perline=9" alt="Technology icons" />
 </p>
+
+## GitHub activity
+
+<p align="center">
+  <img height="180" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=AbdullahAhmedKhan&show_icons=true&hide_border=true&border_radius=12&bg_color=0a0f24&title_color=99f6e4&icon_color=7dd3fc&text_color=cbd5e1&ring_color=5eead4" />
+  <img height="180" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAhmedKhan&layout=compact&langs_count=6&hide_border=true&border_radius=12&bg_color=0a0f24&title_color=99f6e4&text_color=cbd5e1" />
+</p>
+
+<p align="center">
+  <img width="100%" alt="Contribution streak" src="https://streak-stats.demolab.com/?user=AbdullahAhmedKhan&hide_border=true&border_radius=12&background=0a0f24&stroke=232b57&ring=5eead4&fire=fcd34d&currStreakNum=f1f5f9&sideNums=f1f5f9&currStreakLabel=5eead4&sideLabels=cbd5e1&dates=94a3b8" />
+</p>
+
+<!--
+  Contribution snake (optional).
+  1. Run the "Generate snake" workflow once: Actions tab > Generate snake > Run workflow.
+  2. Remove this comment wrapper so the block below is live.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdullahAhmedKhan/AbdullahAhmedKhan/output/github-snake-dark.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/AbdullahAhmedKhan/AbdullahAhmedKhan/output/github-snake.svg" />
+  </picture>
+</p>
+-->
+
+<img src="assets/footer.svg" alt="Thanks for stopping by." width="100%" />
